@@ -5,6 +5,7 @@ menu()
   int a;
   printf("\x1b[1mInserisci il numero dell'operazione:\x1b[0m\n");
   scanf("%d",&a);
+  pippococacon bartoli
   return a;
 }
 
